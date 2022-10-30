@@ -1,2 +1,3 @@
 # RemoteAcessTool-DLL-concept
 Concept for a Rat 
+Please do not Inject this into any 64/32 bit application, although I am not managaing the rat. It still isn't a good idea to rat youreslf...
